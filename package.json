@@ -1,0 +1,26 @@
+{
+  "name": "mbed-js-http-example",
+  "version": "1.0.0",
+  "description": "HTTP calls using JS on mbed",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/janjongboom/mbed-js-http-example.git"
+  },
+  "author": "Jan Jongboom <Jan.Jongboom@arm.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/janjongboom/mbed-js-http-example/issues"
+  },
+  "homepage": "https://github.com/janjongboom/mbed-js-http-example#readme",
+  "devDependencies": {
+    "mbed-js-gulp": "ARMmbed/mbed-js-gulp"
+  },
+  "dependencies": {
+    "mbed-js-easy-connect": "^1.0.0",
+    "mbed-js-http": "^1.0.0"
+  }
+}
